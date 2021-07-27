@@ -1,3 +1,5 @@
+////MAIN FILE
+
 package starpathfinding;
 
 
